@@ -1,1 +1,1 @@
-# web-template
+Template with webpack, eslint, and prettier
